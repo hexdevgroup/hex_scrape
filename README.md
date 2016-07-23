@@ -6,9 +6,13 @@ on something fun.
 ## Purposes:
 
 1) Have a small first project for team to work on together
+
 2) Scrape websites for potential moon-lighting work
+
 3) Develop web application to interface scrapers and RDBMS
+
 4) Develop web application to display this information.
+
 
 ## Tasks
 
